@@ -8,8 +8,8 @@ sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
 might include:
 
-1. Your current position
-1. Organizations you're involved with
+1. Software Engineer at Microsoft
+1. Microsoft, Expedia
 1. Your personal and professional values
 1. Hobbies or fun facts
 
